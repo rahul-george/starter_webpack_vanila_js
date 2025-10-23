@@ -29,3 +29,11 @@ Step 7: Create webpack configs
     touch webpack.common.js webpack.dev.js webpack.prod.js
 
 Step 8: Update the package.json with npm scripts. 
+
+Step 9: Created a script to setup deployment for first time. This works only in local and not in codespaces. 
+
+Step 10: Run the script
+
+    ./setup_deployment.sh
+
+Step 11: Update the package.json with command to deploy
