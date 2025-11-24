@@ -41,7 +41,8 @@ Step 11: Update the package.json with command to deploy
 
 ## Git subtree Issue
 
-Git subtree is not available by default on the codespaces VM. So you need to install this.
+Git subtree is not available by default on the codespaces VM. So you need to install this. 
+Followed this link to get it installed: https://codeengineered.com/blog/how-to-install-git-subtree/
 
 Steps Below:
 
